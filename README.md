@@ -1,22 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZbDEPIzT)
-# Impacts on Society
+Impacts on Society
+Introduction to Computer Science
+In this course middle school students will be introduced to the vast field of computer science through gaming and robotics. This course is designed for 7th and 8th grade students in a middle school setting. In addition students will be introduced to the basics of coding and those fundamental principles needed to understand commands in coding.
+Students will start the year working through coursework in CS First to gain a baseline understanding of block coding. Once that foundation has been established students will draw from their experiences to complete hands-on labs through VEX IQ that require robots to be built, coded, and tested to perform a variety of tasks. Students will have the opportunity to compete collaboratively with students from other schools at a VEX competition in the fall. At the conclusion of the VEX IQ competition season, students will transition to working on coursework through Elite Gaming Live Academy. EGL will introduce students to a variety of computer science pathways and match them to a curriculum path designed to their interests in computer science. Students who successfully earn enough points, from completion of coursework and projects, will be eligible to participate live in competitive gaming tournaments with other students across the country.
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
-## Plan
-
-### Learning Objectives
-
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
-
-### Learning Activities
-
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
-
-### Assessment
-
-Describe how you plan to assess the learning objectives described above.
-
-### Outcomes
-
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+Plan
+Learning Objectives
+Students will be able to compose a thick slide which will require them to research and analyze the societal impacts of a featured computer scientist, and their contributions, each week. 
+Learning Activities
+At the beginning of the week students will follow the Thick Slides EduProtocol to create a mini research paper on the computer scientist of the week. See below for the template they will be using and a completed example. 
+Assessment
+Five students will give a mini 60 second presentation on their slide. Students will be graded on completion of the slide each week and will also be given a monthly presentation grade once they have all presented. 
+Outcomes
+Computer scientists of the week will intentionally include under-represented groups in computer science including women, people of color, those with disabilities, and members of the LGBTQ community. The goal in choosing these computer scientists to feature is to show our students that there are people who look like them in the field of computer science, therefore showing them they can belong to the computer science community. In practicing weekly analysis of computing impacts on society students will get into the habit of looking at all advances in technology from a critical perspective.
